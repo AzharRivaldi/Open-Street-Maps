@@ -1,0 +1,943 @@
+{
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.302482899999999,
+          "lng": 106.8677426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.301128870107278,
+            "lng": 106.8690867798927
+          },
+          "southwest": {
+            "lat": -6.303828529892722,
+            "lng": 106.8663871201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Gadi Lamba",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111748827927481214932\">Sugi Arto</a>"
+          ],
+          "photo_reference": "Aap_uEC2t-LPDVHphADdQQQJoanHTDPsPriBoubAj4k6ikGJBfX_zVggo5l0476yllmM-ihab_t-1ynoKUsCUjvisMa4lfGbGz4DC0NbthAmJvZ2Na5MhUpQPXg-01mhM1cF0aXvpxrSjNcFM_0BU6TFHVqJnPRNYnUK5GoEPQ_tESq_TZOW",
+          "width": 1039
+        }
+      ],
+      "place_id": "ChIJ6cDEK3_taS4RDeeegBqe3VM",
+      "plus_code": {
+        "compound_code": "MVX9+23 Rambutan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVX9+23"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ6cDEK3_taS4RDeeegBqe3VM",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "Jl. Raya Bogor KM. 22, No. 6, RT.8/RW.2, Rambutan, Ciracas, RT.8/RW.2, Rambutan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3079918,
+          "lng": 106.8707919
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.306847670107278,
+            "lng": 106.8721531298927
+          },
+          "southwest": {
+            "lat": -6.309547329892722,
+            "lng": 106.8694534701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotik Bina Waluya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117978095393678646411\">Gunawan MD</a>"
+          ],
+          "photo_reference": "Aap_uECmRz-0OPzS7hAjMqAzCSc9Mb6P20d1Lv7h1-cqNPEeiZSG41FQKcszcwgTLl2u7ZAcdveX-6DeZgNHKvOMI9V1qtqrVv9vrTmW4AqOHK9sJbXKnn0TKs2yd2x4FwrcQZ874Hf5W7L7NsbXrozbcox6t52AI_Y3_ybvaMCGQKsTYdgb",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJQxPk0vvxaS4RSQmSqEuXu0Y",
+      "plus_code": {
+        "compound_code": "MVRC+R8 Rambutan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVRC+R8"
+      },
+      "rating": 5,
+      "reference": "ChIJQxPk0vvxaS4RSQmSqEuXu0Y",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Jl. TB Simatupang No.71, RT.11/RW.5, Rambutan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.304797000000001,
+          "lng": 106.8629126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.303477520107278,
+            "lng": 106.8642462298927
+          },
+          "southwest": {
+            "lat": -6.306177179892722,
+            "lng": 106.8615465701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Gadi Lamba",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111655683874730652155\">FERRY MEDIONO SUNARKO</a>"
+          ],
+          "photo_reference": "Aap_uEBeaTrjlGwF937O0WHEvxai-V1k2lAhf1R8d6IBZ189SEtsLR5jkJ1Y4ygjr-45wIZ4MBwJ7A4etLn-MMaZjW_GyMQtkfQzB_I9KNba7EOPIRLI-31zC3wKwgHEv2ATameJlwclH6dgfPlZiL_jAH4HHL7IYaYwNYUvHIqluteOpopM",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJQ63BTYLtaS4RjvowNecq8NU",
+      "plus_code": {
+        "compound_code": "MVW7+35 Gedong, East Jakarta City, Jakarta",
+        "global_code": "6P58MVW7+35"
+      },
+      "rating": 4,
+      "reference": "ChIJQ63BTYLtaS4RjvowNecq8NU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "Jl. TB Simatupang Blok Depsos No.1, RT.8/RW.2, Gedong, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3082099,
+          "lng": 106.864582
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.306824820107278,
+            "lng": 106.8658650298927
+          },
+          "southwest": {
+            "lat": -6.309524479892722,
+            "lng": 106.8631653701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotik Tumbuh Kembang",
+      "place_id": "ChIJ_XCVU53taS4RWjkYe6EyXqw",
+      "plus_code": {
+        "compound_code": "MVR7+PR Susukan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVR7+PR"
+      },
+      "rating": 0,
+      "reference": "ChIJ_XCVU53taS4RWjkYe6EyXqw",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "JL. Raya Bogor, Km 31/23, RT.4/RW.2, Susukan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.304862099999999,
+          "lng": 106.8624814
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.303444070107276,
+            "lng": 106.8638144298927
+          },
+          "southwest": {
+            "lat": -6.30614372989272,
+            "lng": 106.8611147701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Gadi Rami",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114491784221145763071\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEBHCByxYf_UCTo_Ssx1KQliKnmUtp8Q8FaBBo6f-C8uCBWTFrXek0Z8fZrBATGccOiZ6r06EvUf5-9lpsJEPy_6oyI_vCTlb_Snj4VZrR_YHI91Tz6h53VDoI1n96k8DNjD2VIMohu5J9L_3Svsml7_E-gjcCU90fcgzev6duJwCOCP",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJX1brTYLtaS4RDyrda0xG8xU",
+      "plus_code": {
+        "compound_code": "MVW6+3X Gedong, East Jakarta City, Jakarta",
+        "global_code": "6P58MVW6+3X"
+      },
+      "rating": 4.5,
+      "reference": "ChIJX1brTYLtaS4RDyrda0xG8xU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "Jl. TB Simatupang No.8, RT.3/RW.11, Gedong, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3088139,
+          "lng": 106.8748193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.307476170107278,
+            "lng": 106.8761859798927
+          },
+          "southwest": {
+            "lat": -6.310175829892722,
+            "lng": 106.8734863201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Rakyat Relasi",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110492239835099661137\">alfathi ahmad</a>"
+          ],
+          "photo_reference": "Aap_uED2tjsdbWS16xiUczLuKOy7VHI7zKa8mRAaIu8v3ZISusO52oiJqhwxa9UalYlXLrdC7g6ywLFF1qRXiF0rCGRiZ0Bb8rV3BZQgJenfFsW6rFvxohmvlVQ1QRdOeyGZTTsNhHYaWTB1IqLQtabRTxdtG7uzVqCDQGVki4bp4K7InVpp",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJBV0ranDtaS4RUTQtnkcRDBs",
+      "plus_code": {
+        "compound_code": "MVRF+FW Rambutan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVRF+FW"
+      },
+      "rating": 2.8,
+      "reference": "ChIJBV0ranDtaS4RUTQtnkcRDBs",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "Jl. Suci No.1, RT.3/RW.6, Rambutan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.312348099999999,
+          "lng": 106.8708866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.311050770107278,
+            "lng": 106.8722672798927
+          },
+          "southwest": {
+            "lat": -6.313750429892722,
+            "lng": 106.8695676201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Toko Apotek",
+      "place_id": "ChIJGco6rXbtaS4RxBB-4CbunPw",
+      "plus_code": {
+        "compound_code": "MVQC+39 Susukan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVQC+39"
+      },
+      "rating": 0,
+      "reference": "ChIJGco6rXbtaS4RxBB-4CbunPw",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Jl. Suci No.19, RW.3, Susukan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.310081299999999,
+          "lng": 106.8630576
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.308709520107278,
+            "lng": 106.8643716298927
+          },
+          "southwest": {
+            "lat": -6.311409179892721,
+            "lng": 106.8616719701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Bunda Sehat",
+      "place_id": "ChIJ4WaxEZ3taS4RppuiC7vyJxc",
+      "plus_code": {
+        "compound_code": "MVQ7+X6 Susukan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVQ7+X6"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ4WaxEZ3taS4RppuiC7vyJxc",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "Jl. Raya Jakarta-Bogor, RT.2/RW.4, Susukan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.312776899999999,
+          "lng": 106.8696772
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.311180520107277,
+            "lng": 106.8711522298927
+          },
+          "southwest": {
+            "lat": -6.313880179892721,
+            "lng": 106.8684525701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Mahadika",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117670463714350635018\">nuzulul saja</a>"
+          ],
+          "photo_reference": "Aap_uEAszQ1nXFjY900xc_YwjV-gMU5I4HUSfNEpFfWzbyODJQFqt-NoRf-dcxaLhdaJrTjqorC9hkeUViQbhM4vTgM72D3i0m9qlQYa2Eswuyf5JPuTsMGUUaUD_sd7l6toqdtuHU8rFdiXaG17pepIFT34Bk5Yr_ZgdVMdyVCF0XnAbl7A",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJr6GSoXbtaS4RLptKqN3yijQ",
+      "plus_code": {
+        "compound_code": "MVP9+VV Susukan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVP9+VV"
+      },
+      "rating": 0,
+      "reference": "ChIJr6GSoXbtaS4RLptKqN3yijQ",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Jl. Suci No.9A, RT.1/RW.4, Susukan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3041597,
+          "lng": 106.8590136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.302805470107278,
+            "lng": 106.8604362798927
+          },
+          "southwest": {
+            "lat": -6.305505129892722,
+            "lng": 106.8577366201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Krishlina",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115393173606742397686\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDo0ZvIz75rWlLyR_NL13zE2h0dYFFQ48VpxDbymRlaT8meY7hz-t9Sr32Ze5SUZmyjUzxzpa2jfKC1NeRN5Zy0U9TdxGoMO5iF9AGUv2IIIGhl6hxaYhMyzIplswNy8veZba7jePA48VWOpEmHQlCtLaHu55l6zAC5GztJ8knkcYCE",
+          "width": 774
+        }
+      ],
+      "place_id": "ChIJNa0WdYTtaS4R-Vy5YX9AwBU",
+      "plus_code": {
+        "compound_code": "MVW5+8J Gedong, East Jakarta City, Jakarta",
+        "global_code": "6P58MVW5+8J"
+      },
+      "rating": 4.6,
+      "reference": "ChIJNa0WdYTtaS4R-Vy5YX9AwBU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "Jl. Kesehatan No.2, RT.5/RW.11, Gedong, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.2995322,
+          "lng": 106.8591919
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.298115620107279,
+            "lng": 106.8605116298927
+          },
+          "southwest": {
+            "lat": -6.300815279892722,
+            "lng": 106.8578119701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek gadi condet",
+      "place_id": "ChIJiRnf55jtaS4RUNHVFYawgpY",
+      "rating": 0,
+      "reference": "ChIJiRnf55jtaS4RUNHVFYawgpY",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "PV25+5MP, RT.8/RW.8, Gedong, East Jakarta City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.2975682,
+          "lng": 106.8785007
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.296222320107278,
+            "lng": 106.8798267798927
+          },
+          "southwest": {
+            "lat": -6.298921979892722,
+            "lng": 106.8771271201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Generik Penggilingan Baru",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115363573280135475833\">tatra laksita</a>"
+          ],
+          "photo_reference": "Aap_uEAIDuWcwgZlqIXFqU-Mrpm6kAjlb-qXCl4mjjYT6Kw6Y-ISIie5vO4Vleji7jEKMMI5IYt0dE2eEXtXpffEN5hoh5wj-vyd3gYXput9J-klMo0jL8T7ViStrXS60yG7GkaZSroNkLQ1JAtlVyo75OPXP1qg8HPYp6SzdSl-gww7Vi_h",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJl6jPlxSLaS4Rwo1lZOf-4ho",
+      "plus_code": {
+        "compound_code": "PV2H+XC Dukuh, East Jakarta City, Jakarta",
+        "global_code": "6P58PV2H+XC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJl6jPlxSLaS4Rwo1lZOf-4ho",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Jl. Penggilingan Baru No.07, Kel, RT.1/RW.3, Dukuh, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.292909,
+          "lng": 106.8634315
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.291608170107277,
+            "lng": 106.8647769298927
+          },
+          "southwest": {
+            "lat": -6.294307829892721,
+            "lng": 106.8620772701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Generik",
+      "place_id": "ChIJ7UftdH7yaS4RfMINyMhhEYU",
+      "plus_code": {
+        "compound_code": "PV47+R9 Kampung Tengah, East Jakarta City, Jakarta",
+        "global_code": "6P58PV47+R9"
+      },
+      "rating": 0,
+      "reference": "ChIJ7UftdH7yaS4RfMINyMhhEYU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Jl. H. Ali, RT.5/RW.4, Kp. Tengah, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.2891828,
+          "lng": 106.8692114
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.287828920107278,
+            "lng": 106.8706048298927
+          },
+          "southwest": {
+            "lat": -6.290528579892722,
+            "lng": 106.8679051701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Hafizd Sidqy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116164955661500416310\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEA9xgQOPkenGKl1qg_EgmpHsqHmammvhp6FuZeVzE9aRLBwXgmh0jaIPl5MmkhT0LuM-xqLW7T55eRYRyaZuXelpj97xM8Pk_F2Wm1d8WnEjPO1qiDQmIIsQV8EuyfrBqb9yIEG3uMO4thH_U5qqulo7c249YXm0i_Vyj8Ou-Ebvttr",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJPSpEu97zaS4ROQoTcImyInM",
+      "plus_code": {
+        "compound_code": "PV69+8M Kampung Tengah, East Jakarta City, Jakarta",
+        "global_code": "6P58PV69+8M"
+      },
+      "rating": 5,
+      "reference": "ChIJPSpEu97zaS4ROQoTcImyInM",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "Jl. Raya Inpres No.21, RT.2/RW.2, Kp. Tengah, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.318077499999999,
+          "lng": 106.8651314
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.316499320107277,
+            "lng": 106.8663459798927
+          },
+          "southwest": {
+            "lat": -6.319198979892721,
+            "lng": 106.8636463201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Annisa Aulia",
+      "place_id": "ChIJ5zxQVXXtaS4R_5BuuX_3AaY",
+      "plus_code": {
+        "compound_code": "MVJ8+Q3 Susukan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVJ8+Q3"
+      },
+      "rating": 3,
+      "reference": "ChIJ5zxQVXXtaS4R_5BuuX_3AaY",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "JL. Raya Bogor - Jakarta, Km. 40, No. 5, RT. 02, RW. 02, Bedahan, Pabuaran, RT.2/RW.7, Susukan, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.287658,
+          "lng": 106.8681924
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.286305620107278,
+            "lng": 106.8695451798927
+          },
+          "southwest": {
+            "lat": -6.289005279892722,
+            "lng": 106.8668455201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "APOTEK",
+      "place_id": "ChIJWTVXSEzzaS4RaqHzVm1EO-A",
+      "plus_code": {
+        "compound_code": "PV69+W7 Kampung Tengah, East Jakarta City, Jakarta",
+        "global_code": "6P58PV69+W7"
+      },
+      "rating": 0,
+      "reference": "ChIJWTVXSEzzaS4RaqHzVm1EO-A",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "Jl. Raya Inpres, RT.4/RW.9, Kp. Tengah, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.291196299999999,
+          "lng": 106.8803584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.289823220107277,
+            "lng": 106.8818554798927
+          },
+          "southwest": {
+            "lat": -6.29252287989272,
+            "lng": 106.8791558201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Marga Bhakti Husada",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111832324390364038132\">A Google User</a>"
+          ],
+          "photo_reference": "Aap_uEDCm07sB_TXtGGzf490nszz_SCVOlQVaZtRjaIA4RvmSzant44Enlv6pATzJ45dkxotgnaOQEaLX33LEtPhYFOb42jp3HnXCx584HNF1m9WiYqQ3DUs15RTYZ_cMGf8sRPhLKEWT_ckphe_1tUSyZApW1DbP4ES2zatnJDcz74QqXrf",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJfzWgMrTzaS4RR7blxGkqDko",
+      "rating": 0,
+      "reference": "ChIJfzWgMrTzaS4RR7blxGkqDko",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0,
+      "vicinity": "PV5J+G4H, RT.3/RW.2, Pinang Ranti, East Jakarta City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3194469,
+          "lng": 106.8640483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.318227520107278,
+            "lng": 106.8653959298927
+          },
+          "southwest": {
+            "lat": -6.320927179892722,
+            "lng": 106.8626962701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotik Jakarta Islamic",
+      "place_id": "ChIJJWXo8Z_taS4RFEjQY12S3WM",
+      "plus_code": {
+        "compound_code": "MVJ7+6J Cijantung, East Jakarta City, Jakarta",
+        "global_code": "6P58MVJ7+6J"
+      },
+      "rating": 5,
+      "reference": "ChIJJWXo8Z_taS4RFEjQY12S3WM",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "JL. Pedati No.3, RT.4/RW.6, Cijantung, East Jakarta City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.317593800000001,
+          "lng": 106.8785773
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.316217920107277,
+            "lng": 106.8798949798927
+          },
+          "southwest": {
+            "lat": -6.318917579892721,
+            "lng": 106.8771953201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotik Generik",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJQ4LvNG3taS4Ru7Zkmx3WCqU",
+      "plus_code": {
+        "compound_code": "MVJH+XC Ciracas, East Jakarta City, Jakarta",
+        "global_code": "6P58MVJH+XC"
+      },
+      "rating": 4,
+      "reference": "ChIJQ4LvNG3taS4Ru7Zkmx3WCqU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Jl. Pule Raya, RT.12/RW.10, Ciracas, Kota Jakarta Timur"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -6.3179745,
+          "lng": 106.8783256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.316595920107278,
+            "lng": 106.8796333298927
+          },
+          "southwest": {
+            "lat": -6.319295579892722,
+            "lng": 106.8769336701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Apotek Sulthan",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106903077818484774218\">Maulidya Wati</a>"
+          ],
+          "photo_reference": "Aap_uEBnvyCfORz9tOWyhRuSHpZGmAnbFMuwQ0aht-C5i9FDJ8_NNxHRiKb_0HdxjzOVj0zCF8glVGsOogTHqLcxcHBZ4UmXyuNVUakpG3MKH-sOoBmn9KK34q2mrDa1n6PfQQhIprTVLJK_Lw58M3aBA6jHxB6K368sqHk_jJAnX8xevZZy",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJX9_ktRLtaS4RjpPepKyvvwk",
+      "plus_code": {
+        "compound_code": "MVJH+R8 Ciracas, East Jakarta City, Jakarta",
+        "global_code": "6P58MVJH+R8"
+      },
+      "rating": 5,
+      "reference": "ChIJX9_ktRLtaS4RjpPepKyvvwk",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Jl. Raya Centex No.29, RT.11/RW.3, Ciracas, Kota Jakarta Timur"
+    }
+  ],
+  "status": "OK"
+}

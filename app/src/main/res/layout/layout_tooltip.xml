@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cvContent"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="25dp"
+        app:cardElevation="0dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_rounded_rect"
+                android:backgroundTint="@android:color/holo_blue_light"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/imageLocation"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg_circle"
+                    android:backgroundTint="@color/white"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_place"
+                    app:tint="@android:color/holo_blue_light" />
+
+                <TextView
+                    android:id="@+id/tvNamaLokasi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_toEndOf="@+id/imageLocation"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="Nama Jalan"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/imageClose"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg_circle"
+                    android:backgroundTint="@color/white"
+                    android:padding="10dp"
+                    android:src="@drawable/ic_close"
+                    app:tint="@android:color/holo_blue_light" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tvAlamat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cvContent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-22dp"
+        android:rotation="90"
+        android:src="@drawable/bg_triangle"
+        app:tint="@color/white" />
+
+</RelativeLayout>
